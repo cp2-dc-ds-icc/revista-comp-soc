@@ -1,8 +1,10 @@
 # A Influência das 'Big Techs' no Mundo.
 
-As Big Techs são grandes empresas que exercem domínio no mercado da tecnologia e inovação, como Apple, Google, Amazon, Microsoft etc.
+## O que são Big Techs?
 
-Nos últimos anos, as Big Techs têm moldado profundamente a sociedade global. Sua influência é visível em diversos aspectos do nosso cotidiano, desde como trabalhamos e nos comunicamos até como consumimos e interagimos com o mundo ao nosso redor.
+As Big Techs são grandes empresas de tecnologia que exercem domínio econômico em grande parte do mundo, elas funcionam por meio de um conjunto de inovações nos ramos da tecnologia da informação e da comunicação. Essas companhias são importantes, pois exercem grande influência nas atividades econômicas e culturais na sociedade. como por exemplo a Apple, Google, Amazon, Microsoft, Sony e muitas outras.
+
+Nos últimos anos, as Big Techs têm moldado profundamente a sociedade global. Sua influência é visível em diversos aspectos do nosso cotidiano, desde como trabalhamos e nos comunicamos até como consumimos e interagimos com o mundo ao nosso redor. A maior parte das maiores Big Techs do mundo está sediada nos Estados Unidos. O Brasil não possui corporações tecnológicas em escala global, mas sim importantes regionalmente.
 
 ## Big Techs na economia.
 
