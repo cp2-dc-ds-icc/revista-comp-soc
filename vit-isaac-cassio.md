@@ -7,7 +7,7 @@ Qual é o impacto das mídias sociais na nossa saúde mental?
 Em primeiro lugar, precisamos notar que esses problemas são decorrentes de aspectos biológicos associados à fatores culturais e muito influenciados pela sociedade, podendo ser intensificados por uma predisposição do indivíduo. 
 Porém, elas podem sim gerar uma série de gatilhos que fomentam quadros clínicos de ansiedade, depressão, transtornos de autoimagem, entre outros problemas. Vejamos alguns do principais motivos:
 
-- Padrões ideais e inalcançáveis
+## Padrões ideais e inalcançáveis
   
 As redes sociais são um recorte da realidade. A maioria das pessoas lá só postam fotos e compartilham palavras de momentos marcantes que, geralmente, são bons. 
 Muitas dessas pessoas inclusive fazem uso de ferramentas como o Photoshop para “consertar” o corpo nas fotos além de se submeterem a cirurgias plásticas perigosas e dietas inusitadas e prejudiciais para a saúde.
@@ -15,7 +15,7 @@ Essas fotos perfeitas e o compartilhamento de dietas e resultados de cirurgias a
 Rostos, corpos, rotinas, trabalhos, viagens e relacionamentos perfeitos, como aparecem nas postagens, aumentam a sensação de desvalor. Isso colabora com autocobranças em excesso, que podem somar quadros de estresse, desmotivação e autodepreciação.
 Isso faz com que o indivíduo entre em uma busca incessante pelo físico perfeito. É comum que essa obsessão com o corpo resulte em transtornos alimentares, que afetam tanto a saúde física quanto mental do indivíduo.
 
--	Sensação de isolamento e de perda dos acontecimentos
+##	Sensação de isolamento e de perda dos acontecimentos
   
 Apesar das redes sociais permitirem uma maior conexão e relacionamento de pessoas das mais variadas origens e personalidades, isso também pode impactar negativamente a saúde mental do usuário.
 Com a facilidade de encontrar pessoas com interesses idênticos e construir amizades nas redes sociais, o indivíduo acaba concentrando muito tempo de sua vida na internet.
@@ -23,7 +23,7 @@ Este excesso de interações virtuais pode aumentar a sensação de solidão, fa
 Ao observar a vida das outras pessoas decolar através das redes sociais, o indivíduo tem medo de estar perdendo vivências importantes ou de não estar aproveitando a fase da vida em que se encontra.
 Essa sensação de ter medo de não viver os acontecimentos e se cobrar para vivê-los é propícia para o surgimento da depressão.
 
--	Pressão e esgotamento
+##	Pressão e esgotamento
   
 Ter acesso a uma grande quantidade de informações a todo intstante como artigos, notícias, pesquisas, opiniões e fotos pode mexer com a cabeça de qualquer um.
 Acompanhar pessoas que mostram produtividade em suas postagens também pode ser um gatilho para quem as acompanham.
