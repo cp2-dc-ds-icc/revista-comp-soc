@@ -46,7 +46,7 @@ A legislação e a regulamentação estão em constante evolução para acompanh
 
 
 
-#Como são criadas essas obras?
+# Como são criadas essas obras?
 
 
 
@@ -72,7 +72,7 @@ O Midjourney é uma ferramenta de inteligência artificial projetada para criar 
 
 
 
-#Considerações finais:
+# Considerações finais:
 
 
 
