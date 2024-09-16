@@ -6,11 +6,11 @@ As Big Techs são grandes empresas de tecnologia que exercem domínio econômico
 
 As Big Techs revolucionaram o acesso à informação e comunicação. O Google domina as buscas online, a Apple estabelece novos padrões com seus dispositivos e design, e a Amazon reformulou o varejo com seu modelo de e-commerce. As plataformas sociais, como o Facebook (Meta), alteraram a maneira como interagimos, levantando questões sobre privacidade e desinformação.
 
-Nos últimos anos, as Big Techs têm moldado profundamente a sociedade global. Sua influência é visível em diversos aspectos do nosso cotidiano, desde como trabalhamos e nos comunicamos até como consumimos e interagimos com o mundo ao nosso redor. A maior parte das maiores Big Techs do mundo está sediada nos Estados Unidos. O Brasil não possui corporações tecnológicas em escala global, mas sim importantes regionalmente.
-
 ## Big Techs na economia.
 
 As Big Techs têm um impacto econômico profundo, gerando milhões de empregos e impulsionando a inovação. Contudo, seu domínio cria preocupações sobre monopólios e a concentração de mercado, como evidenciado pelas críticas à Amazon sobre práticas de trabalho e seus efeitos sobre pequenas empresas.
+
+Nos últimos anos, as Big Techs têm moldado profundamente a sociedade global. Sua influência é visível em diversos aspectos do nosso cotidiano, desde como trabalhamos e nos comunicamos até como consumimos e interagimos com o mundo ao nosso redor. A maior parte das maiores Big Techs do mundo está sediada nos Estados Unidos. O Brasil não possui corporações tecnológicas em escala global, mas sim importantes regionalmente.
 
 ## Privacidade e Segurança.
 
