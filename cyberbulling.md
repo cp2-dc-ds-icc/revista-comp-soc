@@ -44,3 +44,12 @@ Para os jovens, é essencial adotar medidas de segurança online, como evitar ac
 Além disso, conversar abertamente sobre o assunto, tanto em casa quanto na escola, pode ajudar a criar um ambiente mais seguro. O diálogo permite que os jovens se sintam à vontade para compartilhar suas experiências e relatar casos de cyberbullying, promovendo uma conscientização maior sobre os impactos das palavras e ações no ambiente virtual. As vítimas precisam saber que não estão sozinhas e que existem pessoas dispostas a ajudá-las, como professores, amigos, familiares e até mesmo profissionais da saúde que podem oferecer apoio emocional e orientação.
 
 
+
+### Referências
+
+https://www.todamateria.com.br/cyberbullying/
+https://veja.abril.com.br/brasil/agora-e-crime-cyberbullying-alarma-o-brasil-2o-pais-no-mundo-em-casos/mobile
+https://fia.com.br/blog/cyberbullying/amp/
+https://www.unicef.org/brazil/cyberbullying-o-que-eh-e-como-para-lo
+https://g1.globo.com/google/amp/politica/noticia/2024/01/15/governo-inclui-bullying-e-cyberbullying-em-codigo-penal.ghtml
+https://g1.globo.com/google/amp/mg/sul-de-minas/noticia/2020/11/05/modelo-e-vitima-de-cyberbullying-em-mg-e-busca-responsavel-por-postagem-feita-nas-redes-sociais.ghtml#amp_tf=De%20%251%24s&aoh=17254506620962&referrer=https%3A%2F%2Fwww.google.com
