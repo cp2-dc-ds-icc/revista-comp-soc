@@ -47,8 +47,13 @@ Além disso, conversar abertamente sobre o assunto, tanto em casa quanto na esco
 
 ### Referências
 https://www.todamateria.com.br/cyberbullying/
+
 https://veja.abril.com.br/brasil/agora-e-crime-cyberbullying-alarma-o-brasil-2o-pais-no-mundo-em-casos/mobile
+
 https://fia.com.br/blog/cyberbullying/amp/
+
 https://www.unicef.org/brazil/cyberbullying-o-que-eh-e-como-para-lo
+
 https://g1.globo.com/google/amp/politica/noticia/2024/01/15/governo-inclui-bullying-e-cyberbullying-em-codigo-penal.ghtml
+
 https://g1.globo.com/google/amp/mg/sul-de-minas/noticia/2020/11/05/modelo-e-vitima-de-cyberbullying-em-mg-e-busca-responsavel-por-postagem-feita-nas-redes-sociais.ghtml#amp_tf=De%20%251%24s&aoh=17254506620962&referrer=https%3A%2F%2Fwww.google.com
