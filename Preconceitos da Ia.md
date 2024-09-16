@@ -2,9 +2,12 @@
 
 A inteligência artificial, apesar de seu potencial inovador, pode apresentar comportamentos preconceituosos, o que levanta preocupações éticas e sociais.
 
+## Explicação
+
 Um dos principais argumentos para entender esse acontecimento é que a IA não é consciente ou tem mente própria, e sim se baseia em padrões vindos de interações humanas.
 As IAs são junções de diversas fontes, como textos, imagens e registros de interações. Esses dados, muitas vezes, tem más índoles, fruto das desigualdades e preconceitos que existe na sociedade humana. Por exemplo, se um sistema de IA é treinado com dados de recrutamento de uma empresa onde há uma tendência histórica de discriminação de gênero, cor e outros, ele pode aprender a reproduzir esses mesmos padrões discriminatórios em seus processos de seleção.
 
+## Exemplo
 
 Nesta imagem, uma deputada pediu que a inteligência artificial gerasse uma imagem de uma mulher negra na favela, e a ia a gerou com uma arma mesmo que isso não tenha sido solicitado pela deputada. A IA por não conseguir identificar isso acaba por causar incidentes como o exemplo visto acima.
 Esses fatores nos mostram que a IA em si não tem intenção ou preconceitos próprios, mas sim uma consequência direta da forma como ela é desenvolvida e treinada, refletindo as imperfeições da sociedade que a cria.
