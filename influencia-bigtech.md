@@ -20,7 +20,7 @@ As Big Techs coletam diversos tipos de dados pessoais, o que levanta preocupaç�
 
 #### Referências.
 > - O que são Big Techs.
->   - {c:white}[UOL](https://brasilescola.uol.com.br/o-que-e/geografia/o-que-sao-big-techs.htm){/c}
+>   - [UOL](https://brasilescola.uol.com.br/o-que-e/geografia/o-que-sao-big-techs.htm)
 >   - [Mundo Educação](https://mundoeducacao.uol.com.br/geografia/o-que-sao-big-techs.htm)
 > 
 > - Big Techs na Economia.
