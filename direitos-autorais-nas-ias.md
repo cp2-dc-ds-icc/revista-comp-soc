@@ -2,6 +2,7 @@
 
 ## AUTORES: Ramon Carlos de Oliveira e Artur Assis Mendonça
 
+## Definição
 Direitos autorais nas inteligências artificiais (IAs) é um tema complexo em evolução que vem causando certas dúvidas na sociedade, pois se trata sobre a evolução constante das máquinas, podendo ser meio preocupante. Aqui está uma visão geral dos principais pontos abordados sobre este tema:
 
 
