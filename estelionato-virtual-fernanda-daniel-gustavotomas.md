@@ -31,8 +31,8 @@ E se, por acaso, você for vítima de estelionato virtual, procure uma delegacia
 
 ## REFERÊNCIAS
 
-https://www.jusbrasil.com.br/artigos/do-crime-de-estelionato-virtual/2332421047#:~:text=O%20estelionato%20virtual%20caracteriza%2Dse,de%20natureza%20pecuni%C3%A1ria%2C%20da%20v%C3%ADtima
+- https://www.jusbrasil.com.br/artigos/do-crime-de-estelionato-virtual/2332421047#:~:text=O%20estelionato%20virtual%20caracteriza%2Dse,de%20natureza%20pecuni%C3%A1ria%2C%20da%20v%C3%ADtima
 
-https://www.tjdft.jus.br/institucional/imprensa/campanhas-e-produtos/direito-facil/edicao-semanal/estelionato
+- https://www.tjdft.jus.br/institucional/imprensa/campanhas-e-produtos/direito-facil/edicao-semanal/estelionato
 
-https://g1.globo.com/jornal-nacional/noticia/2024/08/13/pesquisa-revela-que-brasileiros-sao-alvos-de-mais-de-46-mil-tentativas-de-golpe-financeiro-por-hora.ghtml
+- https://g1.globo.com/jornal-nacional/noticia/2024/08/13/pesquisa-revela-que-brasileiros-sao-alvos-de-mais-de-46-mil-tentativas-de-golpe-financeiro-por-hora.ghtml
