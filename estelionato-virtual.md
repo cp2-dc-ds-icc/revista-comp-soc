@@ -1,5 +1,8 @@
 # Estelionato em ambientes virtuais
 
+# MAIS DE 4,6 MIL PESSOAS SÃO VITIMAS DE ESTELIONATO VIRTUAL POR HORA 
+
+
 
 ## O que é o estelionato virtual?
 O estelionato virtual, que também é conhecido como fraude eletrônica, é um crime que se tomou muito comum nessa era digital! Mas como é que isso funciona? Basicamente, os criminosos, usam métodos como redes sociais, ligações telefónicas, e-mails falsos ou outras jogadas para enganar as pessoas e, assim, obter dados confidenciais, como senhas, dados bancários ou números de cartão de crédito.
