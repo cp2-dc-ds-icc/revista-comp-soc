@@ -1,4 +1,4 @@
-Lista de autores
+Lista de autores:
 - Dylan de Leo 
 - Paulo vitor
 - Wallace Cunha
