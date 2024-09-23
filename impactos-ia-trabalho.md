@@ -20,8 +20,8 @@ Os benefícios são de babar:
 - __Aprendizado contínuo:__ A IA te ajuda a se manter atualizado sobre as últimas novidades do seu campo de atuação. É como ter um GPS pra te guiar no mercado de trabalho.  
  
 Mas nem tudo são flores...  
-	- __Robôs não te abraçam:__ A IA pode te ensinar um monte de coisa, mas ela não te dá aquele feedback pessoal e aquele apoio emocional que um professor humano te dá.  
-	- __Algoritmos com preconceito:__ Se os dados usados pra treinar a IA forem "tortos", ela pode acabar te dando informações erradas ou te discriminando.  
+- __Robôs não te abraçam:__ A IA pode te ensinar um monte de coisa, mas ela não te dá aquele feedback pessoal e aquele apoio emocional que um professor humano te dá.  
+- __Algoritmos com preconceito:__ Se os dados usados pra treinar a IA forem "tortos", ela pode acabar te dando informações erradas ou te discriminando.  
 Tudo muito fácil? Com a IA fazendo quase tudo pra gente, a gente pode acabar ficando preguiçoso e perdendo a capacidade de pensar por conta própria. É como se a gente tivesse uma muleta que a gente nunca mais quisesse tirar.  
 Quem paga a conta? Essa tecnologia é muito cara, e nem todas as empresas e escolas têm dinheiro pra investir nela. Então, quem vai ter acesso a essa super formação? Só os filhos dos ricos?
 E a privacidade? A IA precisa de um monte de informação sobre a gente pra funcionar. Mas será que tá tudo bem a máquina saber tudo sobre a nossa vida profissional?  
