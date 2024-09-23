@@ -3,7 +3,7 @@
 O impacto do uso de redes sociais no desenvolvimento cognitivo é um tema amplamente discutido e complexo, com efeitos que podem ser tanto positivos quanto 
 negativos. Aqui estão algumas das principais maneiras pelas quais as redes sociais podem influenciar o desenvolvimento cognitivo
 
-*Efeitos Positivos:
+# Efeitos Positivos:
 
 -->Acesso à Informação e Conhecimento:
 Redes sociais podem ser uma rica fonte de informação, permitindo acesso a notícias, pesquisas e conteúdos educativos. Isso pode facilitar a aprendizagem contínua e o
@@ -20,7 +20,7 @@ e profissionais, onde o trabalho em equipe é fundamental.
 -->Aprendizagem Personalizada:
 Plataformas educacionais e grupos de interesse podem oferecer oportunidades para a aprendizagem personalizada e adaptada às necessidades e interesses individuais.
 
-*Efeitos Negativos:
+# Efeitos Negativos:
 -->Distração e Diminuição da Atenção:
 O uso excessivo de redes sociais pode levar a uma redução na capacidade de concentração e na atenção sustentada. A constante interrupção por notificações e a sobrecarga
 de informações podem dificultar a profundidade do foco.
