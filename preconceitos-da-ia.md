@@ -1,4 +1,5 @@
 # Preconceitos da Inteligência Artifícial
+Autores:Gustavo henrique,Arthur Dorval e Julia Borges
 
 A inteligência artificial, apesar de seu potencial inovador, pode apresentar comportamentos preconceituosos, o que levanta preocupações éticas e sociais.
 
