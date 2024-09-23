@@ -18,6 +18,7 @@ As consequências geradas por isso claramente são os preconceitos que são preg
 
 Nesta imagem, uma deputada pediu que a inteligência artificial gerasse uma imagem de uma mulher negra na favela, e a ia a gerou com uma arma mesmo que isso não tenha sido solicitado pela deputada. A IA por não conseguir identificar isso acaba por causar incidentes como o exemplo visto acima.
 Esses fatores nos mostram que a IA em si não tem intenção ou preconceitos próprios, mas sim uma consequência direta da forma como ela é desenvolvida e treinada, refletindo as imperfeições da sociedade que a cria.
+Alem disso, tambem percebemos esse estranho comportamento pode se ver tambem nos asiaticos
 
 ## Como resolver
 
