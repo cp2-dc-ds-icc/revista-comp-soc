@@ -4,7 +4,7 @@
 A saúde mental de uma pessoa está relacionada ao estado em que ela está bem o suficiente para lidar com as situações cotidianas.
 A saúde mental está relacionada também à forma como o indivíduo reage às situações da vida, ao estresse, ao trabalho e sua produtividade e ao modo como harmoniza seus desejos, capacidades, ambições, ideias e emoções. Em suma, ter saúde mental é estar bem consigo mesmo e com os outros.
 Qual é o impacto das mídias sociais na nossa saúde mental?
-Em primeiro lugar, precisamos notar que esses problemas são decorrentes de aspectos biológicos associados à fatores culturais e muito influenciados pela sociedade, podendo ser intensificados por uma predisposição do indivíduo. 
+Em primeiro lugar, precisamos notar que os problemas citados abaixo são decorrentes de aspectos biológicos associados à fatores culturais e muito influenciados pela sociedade, podendo ser intensificados por uma predisposição do indivíduo. 
 Porém, elas podem sim gerar uma série de gatilhos que fomentam quadros clínicos de ansiedade, depressão, transtornos de autoimagem, entre outros problemas. Vejamos alguns do principais motivos:
 
 ## Padrões ideais e inalcançáveis
@@ -13,11 +13,10 @@ As redes sociais são um recorte da realidade. A maioria das pessoas lá só pos
 Muitas dessas pessoas inclusive fazem uso de ferramentas como o Photoshop para “consertar” o corpo nas fotos além de se submeterem a cirurgias plásticas perigosas e dietas inusitadas e prejudiciais para a saúde.
 Essas fotos perfeitas e o compartilhamento de dietas e resultados de cirurgias afetam muitos dos usuários das redes sociais.
 Rostos, corpos, rotinas, trabalhos, viagens e relacionamentos perfeitos, como aparecem nas postagens, aumentam a sensação de desvalor. Isso colabora com autocobranças em excesso, que podem somar quadros de estresse, desmotivação e autodepreciação.
-Isso faz com que o indivíduo entre em uma busca incessante pelo físico perfeito. É comum que essa obsessão com o corpo resulte em transtornos alimentares, que afetam tanto a saúde física quanto mental do indivíduo.
+É comum que essa obsessão com o corpo resulte em transtornos alimentares, que afetam tanto a saúde física quanto mental do indivíduo.
 
 ##	Sensação de isolamento e de perda dos acontecimentos
   
-Apesar das redes sociais permitirem uma maior conexão e relacionamento de pessoas das mais variadas origens e personalidades, isso também pode impactar negativamente a saúde mental do usuário.
 Com a facilidade de encontrar pessoas com interesses idênticos e construir amizades nas redes sociais, o indivíduo acaba concentrando muito tempo de sua vida na internet.
 Este excesso de interações virtuais pode aumentar a sensação de solidão, fazendo com que o indivíduo se isole socialmente cada vez mais para viver as “relações virtuais perfeitas”. Além da sensação de isolamento, o indivíduo também tem a sensação de que está perdendo diversos acontecimentos, ou “perdendo algo”.
 Ao observar a vida das outras pessoas decolar através das redes sociais, o indivíduo tem medo de estar perdendo vivências importantes ou de não estar aproveitando a fase da vida em que se encontra.
@@ -30,7 +29,7 @@ Acompanhar pessoas que mostram produtividade em suas postagens também pode ser 
 O indivíduo que acessa esses conteúdos passa a ter a sensação de que precisa ser produtivo, sentindo pressão de alcançar os seus objetivos, mas acaba fazendo isso de maneira nada saudável.
 Essa pressão para “sair do lugar” enquanto os outros já alcançaram o sucesso afeta principalmente estudantes e profissionais e leva o indivíduo ao esgotamento.
 Quais atitudes tomar para não prejudicar sua saúde mental com o uso das redes sociais?
-Para ter uma boa relação entre as redes sociais e saúde mental é importante tomar algumas atitudes para repensar a utilização das redes.
+Para ter uma boa relação entre as redes sociais e saúde mental algumas ações são necessárias para repensar a utilização das redes.
 Algumas pessoas já adotaram medidas mais “extremas” para se desconectar, mesmo que momentaneamente. Algumas dessas medidas são: deixar o celular em casa quando sair ou deixar de usar ou apagar o perfil da rede social utilizada.
 No entanto, as redes sociais também podem ser saudáveis e um ótimo método de se distrair e se relacionar com outros usuários, então é sim possível utilizar as redes sociais sem prejudicar a saúde mental.
 Estabelecer horários para o uso e desativar notificações pode ser uma boa forma de se desconectar e usar as redes sociais na medida certa.
