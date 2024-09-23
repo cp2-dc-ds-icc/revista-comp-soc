@@ -14,13 +14,22 @@ Eles podem se passar por representantes de bancos, empresas ou instituições qu
 As consequências do estelionato virtual podem ser bem graves, incluindo o acesso indevido às suas contas bancárias, compras fraudulentas em seu nome e até mesmo a perda de dinheiro!
 
 ## Então, como se proteger dessa bagunça? 
-A melhor forma é estar sempre atento e desconfiado, pois a desconfiança por mais simples que seja, pode ser a solução e a chave de muitos casos!
 
-Desconfie de e-mails e ligações suspeitas: Se você receber um e-mail ou ligação pedindo informações pessoais, como senhas ou dados bancários, desconfie! Verifique a autenticidade da fonte antes de dar qualquer informação.
+- A melhor forma é estar sempre atento e desconfiado, pois a desconfiança por mais simples que seja, pode ser a solução e a chave de muitos casos!
 
-Não clique em links suspeitos se receber um e-mail ou mensagem com um link que parece duvidoso, não clique nele.
+- Desconfie de e-mails e ligações suspeitas: Se você receber um e-mail ou ligação pedindo informações pessoais, como senhas ou dados bancários, desconfie! Verifique a autenticidade da fonte antes de dar qualquer informação. 
 
-Mantenha seus softwares atualizados, atualize seu sistema operacional e programas de segurança regularmente para se proteger de vírus e malwares, use senhas fortes e diferentes; crie senhas que sejam boas e únicas para cada conta online, isso é fundamental!
+- Não clique em links suspeitos se receber um e-mail ou mensagem com um link que parece duvidoso, não clique nele.
 
-Ative a autenticação de dois fatores: Essa medida extra de segurança exige que você digite um código enviado ao seu celular além da senha para acessar suas contas, e isso é simplesmente excelente!
+- Mantenha seus softwares atualizados, atualize seu sistema operacional e programas de segurança regularmente para se proteger de vírus e malwares, use senhas fortes e diferentes; crie senhas que sejam boas e únicas para cada conta online, isso é fundamental!
+
+- Ative a autenticação de dois fatores:
+
+Essa medida extra de segurança exige que você digite um código enviado ao seu celular além da senha para acessar suas contas, e isso é simplesmente excelente!
 E se, por acaso, você for vítima de estelionato virtual, procure uma delegacia de polícia e registre um boletim de ocorrência! Avise seus familiares e amigos sobre o ocorrido, porque esses criminosos podem tentar entrar em contato com eles para pedir dinheiro! É uma sensação que ninguém quer, mas, se acontecer, é melhor estar preparado
+
+## REFERÊNCIAS
+
+https://www.jusbrasil.com.br/artigos/do-crime-de-estelionato-virtual/2332421047#:~:text=O%20estelionato%20virtual%20caracteriza%2Dse,de%20natureza%20pecuni%C3%A1ria%2C%20da%20v%C3%ADtima.
+https://www.tjdft.jus.br/institucional/imprensa/campanhas-e-produtos/direito-facil/edicao-semanal/estelionato
+https://g1.globo.com/jornal-nacional/noticia/2024/08/13/pesquisa-revela-que-brasileiros-sao-alvos-de-mais-de-46-mil-tentativas-de-golpe-financeiro-por-hora.ghtml
