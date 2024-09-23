@@ -79,7 +79,7 @@ O Midjourney é uma ferramenta de inteligência artificial projetada para criar 
 
 A interação entre direitos autorais e IA exige um equilíbrio cuidadoso entre incentivar a inovação e proteger os interesses dos criadores. A legislação e as práticas de direitos autorais precisam evoluir para abordar os desafios apresentados pela IA, garantindo que a proteção legal continue a apoiar a criatividade e a inovação sem sufocar o progresso tecnológico.
 
-__REFERENCIAS__
+__REFERÊNCIAS:__
 
 1. RÁDIO SENADO - https://www12.senado.leg.br/radio/1/noticia/2024/07/08/ia-e-propriedade-intelectual-regulamentacao-precisa-garantir-direitos-autorais
 2. CONJUR - https://www.conjur.com.br/2023-jul-17/direito-autoral-obras-criadas-ia-problema-ainda-longe-solucao/
