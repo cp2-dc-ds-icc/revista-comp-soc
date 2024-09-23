@@ -66,8 +66,8 @@ O Midjourney é uma ferramenta de inteligência artificial projetada para criar 
 
 
 
-[!imagem-midjourney1](imagem-midjourney-1.png)
-[!imagem-midj2](imagem2.png)
+![Exemplo de imagem gerada com Midjourney](imagens/imagem-midjourney-1.png)
+![Exemplo de imagem gerada com Midjourney](imagens/imagem2.png)
 
 
 
