@@ -1,6 +1,8 @@
 # Cyberbullying
-## autores: Hudson Gabriel, Guilherme De Souza Bastos, João Pedro Dos Santos, João Pedro Domingos Guimaraes.
-### Definição
+
+### Autores: Hudson Gabriel, Guilherme de Souza Bastos, João Pedro dos Santos, João Pedro Domingos.
+
+## Definição
 A Quarta Revolução Industrial, marcada pela integração de tecnologias digitais em praticamente todos os aspectos da vida humana, nos proporcinou diversos beneficios e malefícios como os crimes cibernéticos, dentre eles o cyberbullying. Definido como o uso da internet para assediar, ridicularizar, intimidar e até perseguir alguém de forma intensa e recorrente, o cyberbulling ocorre por meio de mensagens ofensivas, comentários maldosos nas redes sociais ou criação de perfis falsos. Favorecendo essa prática, o anonimato da tela muitas vezes dá uma falsa sensação de proteção ao agressor, tornando a situação ainda mais difícil para a vítima.
 
 ## Onde e como ocorre?
