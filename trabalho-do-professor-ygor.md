@@ -40,6 +40,7 @@ emoções e lidar com estresse.
 -->Impacto na Autoestima e Imagem Corporal:
 Comparações constantes com outras pessoas e exposição a padrões irreais de beleza e sucesso podem afetar a autoestima e a imagem corporal, especialmente 
 
+# Conclusao 
 O impacto das redes sociais no desenvolvimento cognitivo pode variar de acordo com a frequência e a natureza do uso, assim como com o perfil do usuário. É essencial que haja um 
 equilíbrio no uso das redes sociais, promovendo práticas que favoreçam o desenvolvimento cognitivo saudável, enquanto se minimizam os efeitos negativos. Estratégias como o 
 uso consciente e crítico das redes sociais, a diversificação das fontes de informação e a manutenção de interações pessoais reais podem ajudar a maximizar os benefícios 
