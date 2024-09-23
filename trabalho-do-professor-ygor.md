@@ -1,4 +1,4 @@
-Grupo 1
+Lista de autores
 - Dylan de Leo 
 - Paulo vitor
 - Wallace Cunha
