@@ -1,5 +1,5 @@
 # Estelionato em ambientes virtuais
-De: Fenanda, Daniel e Gustavo Tomas
+De: Fenanda Nascimento, Daniel Nascimento e Gustavo Tomas
 
 # MAIS DE 4,6 MIL PESSOAS SÃO VITIMAS DE ESTELIONATO VIRTUAL POR HORA 
 
