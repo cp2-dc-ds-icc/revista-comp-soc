@@ -1,3 +1,4 @@
+Autoria de: Lúcio Flávio, Arthur Moretti, Letícia Bastos e Emanuelle Viana.
 # Inteligência artificial na educação:
  
 ## Quando surgiu?
