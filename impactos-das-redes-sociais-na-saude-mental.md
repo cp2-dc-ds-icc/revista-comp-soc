@@ -1,4 +1,5 @@
 # Impactos do uso de redes sociais na saúde mental
+Cássio, Isaac e Vitória
 
 ## O que é saúde mental? 
 A saúde mental de uma pessoa está relacionada ao estado em que ela está bem o suficiente para lidar com as situações cotidianas.
