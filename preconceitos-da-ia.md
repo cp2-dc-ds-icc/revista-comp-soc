@@ -19,7 +19,8 @@ As consequências geradas por isso claramente são os preconceitos que são preg
 Nesta imagem, uma deputada pediu que a inteligência artificial gerasse uma imagem de uma mulher negra na favela, e a ia a gerou com uma arma mesmo que isso não tenha sido solicitado pela deputada. A IA por não conseguir identificar isso acaba por causar incidentes como o exemplo visto acima.
 Esses fatores nos mostram que a IA em si não tem intenção ou preconceitos próprios, mas sim uma consequência direta da forma como ela é desenvolvida e treinada, refletindo as imperfeições da sociedade que a cria.
 Alem disso, tambem percebemos esse estranho comportamento pode se ver tambem nos asiaticos
-https://www.opovo.com.br/_midias/jpg/2023/09/08/818x460/1_racismo_na_ia_tracos_asiaticos_sao_apagados-23322304.jpg
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.opovo.com.br/_midias/jpg/2023/09/08/818x460/1_racismo_na_ia_tracos_asiaticos_sao_apagados-23322304.jpg)
+nesta imagem pode se ver que a asiatica perde seus traços e se torna algo proximo de um ocidental
 
 ## Como resolver
 
