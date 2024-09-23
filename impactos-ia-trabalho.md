@@ -1,4 +1,5 @@
 # Os impactos positivos (ou negativos) da Inteligência Artificial no mercado de trabalho
+Autores: João Vitor, Pedro Gomes e João Miguel
 
 E aí, mano, tá ligado nessa parada da Inteligência Artificial? A IA tá tomando conta de tudo, desde o celular que você usa pra jogar até os carros que um dia vão dirigir sozinhos. Mas será que essa novidade toda é só coisa boa?
 Imagina um mundo onde:  
