@@ -39,6 +39,8 @@ Acompanhe contas que compartilham notícias, mas que não sejam em excesso ou fa
 Tenha senso crítico, lembre-se de que as redes mostram apenas um recorte positivo (e editado) da vida das pessoas. Então, não faça comparações tomando o que vê por lá como realidade.
 Tenha outros passatempos e não use apenas as redes sociais para se distrair, lembre-se de outros hábitos e hobbies e incorpore-os novamente à sua rotina.
 
-Referências: https://www.conexasaude.com.br/blog/redes-sociais-saude-mental/
-https://www.unimedcampinas.com.br/blog/saude-emocional/qual-e-o-impacto-negativo-das-redes-sociais-na-nossa-saude-mental
-https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1806-69762020000100001
+## Referências
+
+- [https://www.conexasaude.com.br/blog/redes-sociais-saude-mental/](https://www.conexasaude.com.br/blog/redes-sociais-saude-mental/)
+- [https://www.unimedcampinas.com.br/blog/saude-emocional/qual-e-o-impacto-negativo-das-redes-sociais-na-nossa-saude-mental](https://www.unimedcampinas.com.br/blog/saude-emocional/qual-e-o-impacto-negativo-das-redes-sociais-na-nossa-saude-mental)
+- [https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1806-69762020000100001](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1806-69762020000100001)
