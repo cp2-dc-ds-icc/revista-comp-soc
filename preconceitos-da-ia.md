@@ -28,6 +28,7 @@ nesta imagem pode se ver que a asiatica perde seus traços e se torna algo proxi
 Esses fatos nos mostram que o preconceito da IA não é uma caractrística exclusiva da tecnologia mas sim uma consequência direta de como ela é desenvolvida e treinada, refletindo os defeitos da sociedade que a cria. Mas como podemos evitar isso?
 Uma das maneiras de evitar esses acontecimentos é buscar por informações certas, ou seja, que temos noção de onde vem e que não está sendo adulterada.
 ## Referencias
-jornal da usp:https://jornal.usp.br/atualidades/inteligencia-artificial-utiliza-base-de-dados-que-refletem-preconceitos-e-desigualdades/
-canal futura:https://futura.frm.org.br/conteudo/professores/artigo/inteligencia-artificial-e-racista
+
+ - [Jornal da USP](https://jornal.usp.br/atualidades/inteligencia-artificial-utiliza-base-de-dados-que-refletem-preconceitos-e-desigualdades/)
+ - [Canal Futura](https://futura.frm.org.br/conteudo/professores/artigo/inteligencia-artificial-e-racista)
 
