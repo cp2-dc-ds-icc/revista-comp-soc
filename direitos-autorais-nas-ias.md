@@ -17,9 +17,7 @@ Direitos autorais nas inteligências artificiais (IAs) é um tema complexo em ev
 
 ## 2. Autoria Humana
 
-- Obras Colaborativas: Se uma IA é usada como uma ferramenta ou colaboradora na criação de uma obra, a autoria pode ser atribuída ao humano que utilizou a IA, especialmente se esse humano fez contribuições significativas ao processo criativo.
-
-- Programadores e Usuários: Em casos onde a IA é desenvolvida e programada para criar conteúdo, os direitos autorais podem ser atribuídos ao criador da IA (ou seja, o programador ou desenvolvedor da IA) ou à pessoa que utilizou a IA para criar a obra, dependendo do nível de envolvimento humano no processo criativo.
+- Obras Colaborativas: Se uma IA é usada como uma ferramenta ou colaboradora na criação de uma obra, a autoria pode ser atribuída ao humano que utilizou a IA. Especialmente se esse humano fez contribuições significativas, como: Escolher os detalhes da imagem, dar funções e funcionalidades a ela, entre outras. Qualquer contribuição significativa para o processo de criação da imagem, já valida a autoria da mesma.
 
 
 
