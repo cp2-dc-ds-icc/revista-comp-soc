@@ -26,8 +26,10 @@ trabalho e, consequentemente, na economia.
 
 ## Referências
 
-Links:https://estuda.com/o-papel-da-inteligencia-artificial-na-personalizacao-da-educacao/#:~:text=Personaliza%C3%A7%C3%A3o%20do%20aprendizado&text=Com%20o%20ensino%20adaptativo%2C%20a,fortalecimento%20de%20suas%20habilidades%20individuais.
+- [https://estuda.com/o-papel-da-inteligencia-artificial-na-personalizacao-da-educacao/](https://estuda.com/o-papel-da-inteligencia-artificial-na-personalizacao-da-educacao/#:~:text=Personaliza%C3%A7%C3%A3o%20do%20aprendizado&text=Com%20o%20ensino%20adaptativo%2C%20a,fortalecimento%20de%20suas%20habilidades%20individuais.)
 
-https://noticias.portaldaindustria.com.br/noticias/geracao-sesi-senai/a-inteligencia-artificial-vai-prejudicar-a-educacao-descubra-pontos-positivos-e-negativos/#:~:text=Depend%C3%AAncia%20excessiva%20da%20ferramenta,com%20menos%20capacidade%20de%20questionar.
+- [https://noticias.portaldaindustria.com.br/noticias/geracao-sesi-senai/a-inteligencia-artificial-vai-prejudicar-a-educacao-descubra-pontos-positivos-e-negativos/](https://noticias.portaldaindustria.com.br/noticias/geracao-sesi-senai/a-inteligencia-artificial-vai-prejudicar-a-educacao-descubra-pontos-positivos-e-negativos/#:~:text=Depend%C3%AAncia%20excessiva%20da%20ferramenta,com%20menos%20capacidade%20de%20questionar.)
 
-Porvir, Educa Mais Brasil, Biopass id e Herospark
+- [https://porvir.org/linha-do-tempo-historia-da-inteligencia-artificial-na-educacao/](https://porvir.org/linha-do-tempo-historia-da-inteligencia-artificial-na-educacao/)
+- [https://br.biopassid.com/post/artificial-intelligence-in-schools](https://br.biopassid.com/post/artificial-intelligence-in-schools)
+- [https://herospark.com/blog/pontos-negativos-da-inteligencia-artificial/](https://herospark.com/blog/pontos-negativos-da-inteligencia-artificial/)
