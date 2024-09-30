@@ -59,24 +59,25 @@ A intenção da nossa matéria foi trazer informações, informar sobre o uso e 
 
 Referências:
 
-https://pt.linkedin.com/pulse/ia-e-desvaloriza%C3%A7%C3%A3o-do-artista-uma-reflex%C3%A3o-michael-dhyani
+ - [https://pt.linkedin.com/pulse/ia-e-desvaloriza%C3%A7%C3%A3o-do-artista-uma-reflex%C3%A3o-michael-dhyani](https://pt.linkedin.com/pulse/ia-e-desvaloriza%C3%A7%C3%A3o-do-artista-uma-reflex%C3%A3o-michael-dhyani)
 
-https://www.bbc.com/portuguese/internacional-62949698
- https://tecnoblog.net/responde/o-que-e-inteligencia-artificial/
+ - [https://www.bbc.com/portuguese/internacional-62949698](https://www.bbc.com/portuguese/internacional-62949698)
+ 
+ - [https://tecnoblog.net/responde/o-que-e-inteligencia-artificial/](https://tecnoblog.net/responde/o-que-e-inteligencia-artificial/)
 
-https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-BR
+ - [https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-BR](https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-BR)
 
-https://www.oracle.com/br/artificial-intelligence/what-is-ai/
+ - [https://www.oracle.com/br/artificial-intelligence/what-is-ai/](https://www.oracle.com/br/artificial-intelligence/what-is-ai/)
 
-https://www.ibm.com/br-pt/topics/artificial-intelligence
+ - [https://www.ibm.com/br-pt/topics/artificial-intelligence](https://www.ibm.com/br-pt/topics/artificial-intelligence)
 
-https://brasilescola.uol.com.br/informatica/inteligencia-artificial.htm
+ - [https://brasilescola.uol.com.br/informatica/inteligencia-artificial.htm](https://brasilescola.uol.com.br/informatica/inteligencia-artificial.htm)
 
-https://exame.com/inteligencia-artificial/ia-no-mercado-de-trabalho-alem-da-substituicao-um-catalisador-de-oportunidades/
+ - [https://exame.com/inteligencia-artificial/ia-no-mercado-de-trabalho-alem-da-substituicao-um-catalisador-de-oportunidades/](https://exame.com/inteligencia-artificial/ia-no-mercado-de-trabalho-alem-da-substituicao-um-catalisador-de-oportunidades/)
 
-https://www.aethossistemas.com.br/blog/implementacao-da-inteligencia-artificial-na-administracao-do-negocio
+ - [https://www.aethossistemas.com.br/blog/implementacao-da-inteligencia-artificial-na-administracao-do-negocio](https://www.aethossistemas.com.br/blog/implementacao-da-inteligencia-artificial-na-administracao-do-negocio)
 
-https://www.em.com.br/empresas/2024/09/6932961-gestao-empresarial-como-a-tecnologia-esta-revolucionando-o-setor.html#google_vignette
+ - [https://www.em.com.br/empresas/2024/09/6932961-gestao-empresarial-como-a-tecnologia-esta-revolucionando-o-setor.html#google_vignette](https://www.em.com.br/empresas/2024/09/6932961-gestao-empresarial-como-a-tecnologia-esta-revolucionando-o-setor.html#google_vignette)
 
 
 
