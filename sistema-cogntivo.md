@@ -9,44 +9,35 @@ O impacto do uso de redes sociais no desenvolvimento cognitivo é um tema amplam
 negativos. Aqui estão algumas das principais maneiras pelas quais as redes sociais podem influenciar o desenvolvimento cognitivo
 
 # Efeitos Positivos:
+SENSO DE COMUNIDADE:
+Segundo os psicólogos, é possível desenvolver um forte senso de comunidade nas redes sociais. Por meio de alguns recursos (páginas, grupos etc.) é possível encontrar pessoas que realmente se importam e se conectam a você.
 
--->Acesso à Informação e Conhecimento:
-Redes sociais podem ser uma rica fonte de informação, permitindo acesso a notícias, pesquisas e conteúdos educativos. Isso pode facilitar a aprendizagem contínua e o
-desenvolvimento de habilidades cognitivas.
+PERMITE QUE VOCÊ ENCONTRE BONS AMIGOS:
+É possível conhecer pessoas incríveis nas redes sociais que podem se transformar em grandes amigos.
+Esses amigos podem ser tão valiosos como os amigos que você tem na “vida real”, fazer você se sentir muito querido, amado e garantir que você tenha sempre com quem contar nos momentos mais dolorosos da vida.
 
--->Estimulação Cognitiva e Criatividade:
-A exposição a diferentes tipos de conteúdo e interações pode estimular a criatividade e o pensamento crítico. Participar de discussões e debates online pode promover 
-o desenvolvimento de habilidades analíticas e de argumentação.
-
--->Habilidades Sociais e Colaboração:
-Interagir com outras pessoas através das redes sociais pode melhorar habilidades de comunicação e colaboração. Isso é especialmente benéfico em contextos educacionais 
-e profissionais, onde o trabalho em equipe é fundamental.
-
--->Aprendizagem Personalizada:
-Plataformas educacionais e grupos de interesse podem oferecer oportunidades para a aprendizagem personalizada e adaptada às necessidades e interesses individuais.
+CONTEÚDO DE QUALIDADE:
+As redes sociais possuem uma infinidade astronômica de conteúdos, vindos dos quatro cantos do mundo que podem ser usadas pra estudar diversas materias.  
 
 # Efeitos Negativos:
--->Distração e Diminuição da Atenção:
-O uso excessivo de redes sociais pode levar a uma redução na capacidade de concentração e na atenção sustentada. A constante interrupção por notificações e a sobrecarga
-de informações podem dificultar a profundidade do foco.
+NECESSIDADE DE APROVAÇÃO ALHEIA:
+Aliado aos danos causados pelas redes sociais, há o fato de que grande parte dos indivíduos utiliza as redes sociais para buscar algum tipo de validação social, ou seja, permanecem muito tempo conectados por sentirem a necessidade constante de aprovação alheia.
 
--->Impacto na Memória:
-O consumo constante de informações rápidas e superficiais pode afetar a retenção de informações e a memória de longo prazo. A dependência de redes sociais para 
-armazenamento de informações pode reduzir a prática de memorização e a internalização de conhecimento.
+A QUEDA D NIVEL DE ATENÇÃO:
+Não é segredo para ninguém que qualquer mínima notificação de celular chama a atenção de imediato. Acostumados à presença e à comodidade dos aparelhos eletrônicos, nossa atenção se volta a eles tão logo emitam a menor vibração.
 
--->Desenvolvimento de Habilidades Sociais:
-Embora as redes sociais possam melhorar certas habilidades de comunicação, também podem levar a uma diminuição das habilidades de comunicação interpessoal e face a
-face, uma vez que a interação virtual é diferente da interação física.
-
--->Risco de Dependência e Comportamentos Compulsivos:
-A dependência de redes sociais pode levar a comportamentos compulsivos e afetar a saúde mental. Isso pode influenciar negativamente a capacidade de regular 
-emoções e lidar com estresse.
-
--->Impacto na Autoestima e Imagem Corporal:
-Comparações constantes com outras pessoas e exposição a padrões irreais de beleza e sucesso podem afetar a autoestima e a imagem corporal, especialmente 
+USO EXCESSIVO:
+ Isso pode levar a problemas como bullying, assédio, cyberbullying, violência e outros problemas relacionados ao uso das mídias sociais.
 
 # Conclusão 
 O impacto das redes sociais no desenvolvimento cognitivo pode variar de acordo com a frequência e a natureza do uso, assim como com o perfil do usuário. É essencial que haja um 
 equilíbrio no uso das redes sociais, promovendo práticas que favoreçam o desenvolvimento cognitivo saudável, enquanto se minimizam os efeitos negativos. Estratégias como o 
 uso consciente e crítico das redes sociais, a diversificação das fontes de informação e a manutenção de interações pessoais reais podem ajudar a maximizar os benefícios 
 e reduzir os riscos associados ao uso dessas plataformas.
+
+
+referênrcias:
+ - [https://www.psicologo.com.br/blog/beneficios-e-impactos-das-redes-sociais-na-saude-mental/](https://www.psicologo.com.br/blog/beneficios-e-impactos-das-redes-sociais-na-saude-mental/)
+ - [https://unileao.edu.br/blog/influencia-das-redes-sociais-nos-estudos/](https://unileao.edu.br/blog/influencia-das-redes-sociais-nos-estudos/)
+ - [https://www.marceloparazzi.com.br/blog/6-danos-causados-pelas-redes-sociais/](https://www.marceloparazzi.com.br/blog/6-danos-causados-pelas-redes-sociais/)
+ - [https://salzclinica.com.br/redes-sociais-bem-estar-e-a-saude-mental-das-criancas/](https://salzclinica.com.br/redes-sociais-bem-estar-e-a-saude-mental-das-criancas/)
