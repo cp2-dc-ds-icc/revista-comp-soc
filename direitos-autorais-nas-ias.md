@@ -87,7 +87,7 @@ A interação entre direitos autorais e IA exige um equilíbrio cuidadoso entre 
 
 __REFERÊNCIAS:__
 
-1. [RÁDIO SENADO] - (https://www12.senado.leg.br/radio/1/noticia/2024/07/08/ia-e-propriedade-intelectual-regulamentacao-precisa-garantir-direitos-autorais)
-2. [CONJUR] - (https://www.conjur.com.br/2023-jul-17/direito-autoral-obras-criadas-ia-problema-ainda-longe-solucao/)
-3. [ChatGPT] - (https://openai.com/chatgpt/)
-4. [EBAC] - (https://ebaconline.com.br/blog/geradores-de-imagens-com-ia-seo#:~:text=Os%20geradores%20de%20imagens%20com%20IA%20utilizam%20t%C3%A9cnicas%20de%20deep,um%20gerador%20e%20um%20discriminador.)
+1. [RÁDIO SENADO](https://www12.senado.leg.br/radio/1/noticia/2024/07/08/ia-e-propriedade-intelectual-regulamentacao-precisa-garantir-direitos-autorais)
+2. [CONJUR](https://www.conjur.com.br/2023-jul-17/direito-autoral-obras-criadas-ia-problema-ainda-longe-solucao/)
+3. [ChatGPT](https://openai.com/chatgpt/)
+4. [EBAC](https://ebaconline.com.br/blog/geradores-de-imagens-com-ia-seo#:~:text=Os%20geradores%20de%20imagens%20com%20IA%20utilizam%20t%C3%A9cnicas%20de%20deep,um%20gerador%20e%20um%20discriminador.)
