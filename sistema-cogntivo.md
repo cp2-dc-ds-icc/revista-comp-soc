@@ -23,7 +23,7 @@ As redes sociais possuem uma infinidade astronômica de conteúdos, vindos dos q
 NECESSIDADE DE APROVAÇÃO ALHEIA:
 Aliado aos danos causados pelas redes sociais, há o fato de que grande parte dos indivíduos utiliza as redes sociais para buscar algum tipo de validação social, ou seja, permanecem muito tempo conectados por sentirem a necessidade constante de aprovação alheia.
 
-A QUEDA D NIVEL DE ATENÇÃO:
+A QUEDA DE NIVEL DE ATENÇÃO:
 Não é segredo para ninguém que qualquer mínima notificação de celular chama a atenção de imediato. Acostumados à presença e à comodidade dos aparelhos eletrônicos, nossa atenção se volta a eles tão logo emitam a menor vibração.
 
 USO EXCESSIVO:
